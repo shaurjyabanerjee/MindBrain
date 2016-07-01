@@ -1,0 +1,16 @@
+Driver Override Terminal Command List -
+
+While inside the 'SampleUSBAudioOverrideDriver' directory, enter the following commands into the command line 
+
+
+sudo cp -rf SampleUSBAudioOverrideDriver.kext /System/Library/Extensions
+
+sudo chown -R root:wheel SampleUSBAudioOverrideDriver.kext
+
+sudo chmod -R 755 SampleUSBAudioOverrideDriver.kext
+
+sudo touch /System/Library/Extensions
+
+
+
+Then restart the system
