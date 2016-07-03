@@ -1,0 +1,43 @@
+Refactor To-Do for MindBrain Software Package 
+----------------------------------------------
+
+1. Pitch Calibrator
+-------------------
+UX - Add UI glow functionality corresponding to CV out level
+
+
+2. Pitch & Gate Out
+-------------------
+Bug - Occasionaly gates are not sent when MIDI notes come in
+UX - Add UI glow functionality corresponding to CV out level
+
+
+3. MIDI to Gate/Trigger
+-----------------------
+UX - Add MindBrain logo, as well as responsive logo when gates are sent
+
+
+4. Dual LFO
+------------
+UX - Remove 'Bin' from available waveshapes 
+(because its just a rectangle wave and hence confusing)
+
+UX - Occasionally the right and left scopes have different trace thicknesses?!
+
+
+5. Dual Envelope Generator
+---------------------------
+Functionality - Add tempo sync mode to Rise/Fall and nPpoint generator
+
+
+6.Dual Random Generator
+------------------------
+
+
+
+
+
+
+
+
+ 
