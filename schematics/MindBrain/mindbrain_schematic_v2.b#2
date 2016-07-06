@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.025" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.0125" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -513,10 +513,10 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="52.451" y="10.414" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
 </element>
 <element name="R3" library="SparkFun-Passives" package="AXIAL-0.4" value="1KΩ" x="64.77" y="36.83" smashed="yes" rot="R270">
-<attribute name="VALUE" x="64.389" y="37.846" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="64.389" y="38.1635" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="R4" library="SparkFun-Passives" package="AXIAL-0.4" value="1KΩ" x="52.07" y="36.83" smashed="yes" rot="R270">
-<attribute name="VALUE" x="51.689" y="37.846" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="51.689" y="38.1635" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="R5" library="SparkFun-Passives" package="AXIAL-0.4" value="1KΩ" x="26.67" y="11.43" smashed="yes" rot="R90">
 <attribute name="VALUE" x="27.051" y="10.414" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
@@ -525,16 +525,16 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="39.751" y="10.414" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
 </element>
 <element name="R7" library="SparkFun-Passives" package="AXIAL-0.4" value="1KΩ" x="39.37" y="36.83" smashed="yes" rot="R270">
-<attribute name="VALUE" x="38.989" y="37.846" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="38.989" y="38.1635" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="R8" library="SparkFun-Passives" package="AXIAL-0.4" value="1KΩ" x="26.67" y="36.83" smashed="yes" rot="R270">
-<attribute name="VALUE" x="26.289" y="37.846" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="26.289" y="38.1635" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="RF1" library="SparkFun-Passives" package="AXIAL-0.4" value="2KΩ" x="49.53" y="11.43" smashed="yes" rot="R270">
-<attribute name="VALUE" x="49.149" y="12.446" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="49.149" y="12.7635" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="RF2" library="SparkFun-Passives" package="AXIAL-0.4" value="2KΩ" x="67.31" y="11.43" smashed="yes" rot="R270">
-<attribute name="VALUE" x="66.929" y="12.446" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="66.929" y="12.7635" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="RF3" library="SparkFun-Passives" package="AXIAL-0.4" value="2KΩ" x="67.31" y="36.83" smashed="yes" rot="R90">
 <attribute name="VALUE" x="67.691" y="35.814" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
@@ -543,10 +543,10 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="49.911" y="35.814" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
 </element>
 <element name="RF5" library="SparkFun-Passives" package="AXIAL-0.4" value="2KΩ" x="24.13" y="11.43" smashed="yes" rot="R270">
-<attribute name="VALUE" x="23.749" y="12.446" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="23.749" y="12.7635" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="RF6" library="SparkFun-Passives" package="AXIAL-0.4" value="2KΩ" x="41.91" y="11.43" smashed="yes" rot="R270">
-<attribute name="VALUE" x="41.529" y="12.446" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="41.529" y="12.7635" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="RF7" library="SparkFun-Passives" package="AXIAL-0.4" value="2KΩ" x="41.91" y="36.83" smashed="yes" rot="R90">
 <attribute name="VALUE" x="42.291" y="35.814" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
@@ -555,28 +555,28 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="24.511" y="35.814" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
 </element>
 <element name="RIN1" library="SparkFun-Passives" package="AXIAL-0.4" value="10KΩ" x="55.88" y="11.43" smashed="yes" rot="R270">
-<attribute name="VALUE" x="55.499" y="12.446" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="55.499" y="13.081" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="RIN2" library="SparkFun-Passives" package="AXIAL-0.4" value="10KΩ" x="60.96" y="11.43" smashed="yes" rot="R270">
-<attribute name="VALUE" x="60.579" y="12.446" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="60.579" y="13.081" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="RIN3" library="SparkFun-Passives" package="AXIAL-0.4" value="10KΩ" x="60.96" y="36.83" smashed="yes" rot="R90">
-<attribute name="VALUE" x="61.341" y="35.814" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
+<attribute name="VALUE" x="61.341" y="35.4965" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
 </element>
 <element name="RIN4" library="SparkFun-Passives" package="AXIAL-0.4" value="10KΩ" x="55.88" y="36.83" smashed="yes" rot="R90">
-<attribute name="VALUE" x="56.261" y="35.814" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
+<attribute name="VALUE" x="56.261" y="35.4965" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
 </element>
 <element name="RIN5" library="SparkFun-Passives" package="AXIAL-0.4" value="10KΩ" x="30.48" y="11.43" smashed="yes" rot="R270">
-<attribute name="VALUE" x="30.099" y="12.446" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="30.099" y="13.081" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="RIN6" library="SparkFun-Passives" package="AXIAL-0.4" value="10KΩ" x="35.56" y="11.43" smashed="yes" rot="R270">
-<attribute name="VALUE" x="35.179" y="12.446" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
+<attribute name="VALUE" x="35.179" y="13.081" size="0.8128" layer="21" font="vector" ratio="15" rot="R270"/>
 </element>
 <element name="RIN7" library="SparkFun-Passives" package="AXIAL-0.4" value="10KΩ" x="35.56" y="36.83" smashed="yes" rot="R90">
-<attribute name="VALUE" x="35.941" y="35.814" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
+<attribute name="VALUE" x="35.941" y="35.4965" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
 </element>
 <element name="RIN8" library="SparkFun-Passives" package="AXIAL-0.4" value="10KΩ" x="30.48" y="36.83" smashed="yes" rot="R90">
-<attribute name="VALUE" x="30.861" y="35.814" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
+<attribute name="VALUE" x="30.861" y="35.4965" size="0.8128" layer="21" font="vector" ratio="15" rot="R90"/>
 </element>
 <element name="C1" library="SparkFun-Capacitors" package="CAP-PTH-SMALL-KIT" value="0.1uF" x="33.02" y="12.7" rot="R270"/>
 <element name="C2" library="SparkFun-Capacitors" package="CAP-PTH-SMALL-KIT" value="0.1uF" x="58.42" y="35.56" rot="R90"/>
