@@ -1938,6 +1938,10 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="OUTPUT-GND" library="SparkFun-Connectors" deviceset="M01" device="NOSILK-KIT" value=""/>
 <part name="GND23" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND24" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
+<part name="AUDIOCARD-GND1" library="SparkFun-Connectors" deviceset="M01" device="NOSILK-KIT" value=""/>
+<part name="OUTPUT-GND1" library="SparkFun-Connectors" deviceset="M01" device="NOSILK-KIT" value=""/>
+<part name="GND25" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
+<part name="GND26" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -2025,6 +2029,10 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <instance part="OUTPUT-GND" gate="G$1" x="-22.86" y="68.58" rot="R180"/>
 <instance part="GND23" gate="1" x="-22.86" y="78.74"/>
 <instance part="GND24" gate="1" x="-38.1" y="60.96"/>
+<instance part="AUDIOCARD-GND1" gate="G$1" x="-38.1" y="48.26"/>
+<instance part="OUTPUT-GND1" gate="G$1" x="-22.86" y="30.48" rot="R180"/>
+<instance part="GND25" gate="1" x="-22.86" y="40.64"/>
+<instance part="GND26" gate="1" x="-38.1" y="22.86"/>
 </instances>
 <busses>
 </busses>
@@ -2178,6 +2186,18 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <pinref part="GND24" gate="1" pin="GND"/>
 <wire x1="-30.48" y1="68.58" x2="-38.1" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="-38.1" y1="68.58" x2="-38.1" y2="63.5" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="AUDIOCARD-GND1" gate="G$1" pin="1"/>
+<wire x1="-30.48" y1="48.26" x2="-22.86" y2="48.26" width="0.1524" layer="91"/>
+<pinref part="GND25" gate="1" pin="GND"/>
+<wire x1="-22.86" y1="48.26" x2="-22.86" y2="43.18" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="OUTPUT-GND1" gate="G$1" pin="1"/>
+<pinref part="GND26" gate="1" pin="GND"/>
+<wire x1="-30.48" y1="30.48" x2="-38.1" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="-38.1" y1="30.48" x2="-38.1" y2="25.4" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$2" class="0">

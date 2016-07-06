@@ -1893,7 +1893,7 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="RIN4" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="10KΩ"/>
 <part name="GND7" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND8" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="IC1" library="linear" deviceset="TL084" device="P"/>
+<part name="IC1" library="linear" deviceset="TL084" device="P" value="       TL084"/>
 <part name="OUTPUT5" library="SparkFun-Connectors" deviceset="M01" device="NOSILK-KIT" value=""/>
 <part name="INPUT5" library="SparkFun-Connectors" deviceset="M01" device="NOSILK-KIT" value=""/>
 <part name="R5" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1KΩ"/>
@@ -1922,7 +1922,7 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="RIN8" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="10KΩ"/>
 <part name="GND15" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND16" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="IC2" library="linear" deviceset="TL084" device="P"/>
+<part name="IC2" library="linear" deviceset="TL084" device="P" value="       TL084"/>
 <part name="C1" library="SparkFun-Capacitors" deviceset="CAP" device="KIT" value="0.1uF"/>
 <part name="C2" library="SparkFun-Capacitors" deviceset="CAP" device="KIT" value="0.1uF"/>
 <part name="C3" library="SparkFun-Capacitors" deviceset="CAP" device="KIT" value="0.1uF"/>
