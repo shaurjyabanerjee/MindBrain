@@ -139,7 +139,23 @@ Shaurjya Banerjee
 <text x="19.05" y="35.8775" size="0.8128" layer="21">GND</text>
 <text x="19.05" y="33.3375" size="0.8128" layer="21">GND</text>
 <text x="76.835" y="35.8775" size="0.8128" layer="21">GND</text>
-<text x="76.835" y="33.655" size="0.8128" layer="21">GND</text>
+<text x="76.835" y="33.3375" size="0.8128" layer="21">GND</text>
+<text x="19.05" y="30.7975" size="0.8128" layer="21">IN8</text>
+<text x="19.05" y="28.2575" size="0.8128" layer="21">IN7</text>
+<text x="19.05" y="25.7175" size="0.8128" layer="21">IN6</text>
+<text x="19.05" y="23.1775" size="0.8128" layer="21">IN5</text>
+<text x="19.05" y="20.6375" size="0.8128" layer="21">IN4</text>
+<text x="19.05" y="18.0975" size="0.8128" layer="21">IN3</text>
+<text x="19.05" y="15.5575" size="0.8128" layer="21">IN2</text>
+<text x="19.05" y="13.0175" size="0.8128" layer="21">IN1</text>
+<text x="76.835" y="30.7975" size="0.8128" layer="21">OUT8</text>
+<text x="76.835" y="28.2575" size="0.8128" layer="21">OUT7</text>
+<text x="76.835" y="25.7175" size="0.8128" layer="21">OUT6</text>
+<text x="76.835" y="23.1775" size="0.8128" layer="21">OUT5</text>
+<text x="76.835" y="20.6375" size="0.8128" layer="21">OUT4</text>
+<text x="76.835" y="18.0975" size="0.8128" layer="21">OUT3</text>
+<text x="76.835" y="15.5575" size="0.8128" layer="21">OUT2</text>
+<text x="76.835" y="13.0175" size="0.8128" layer="21">OUT1</text>
 </plain>
 <libraries>
 <library name="linear">

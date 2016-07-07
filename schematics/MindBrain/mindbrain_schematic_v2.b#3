@@ -136,26 +136,6 @@ Designed By
 Shaurjya Banerjee
 2016</text>
 <text x="3.175" y="38.1" size="1.27" layer="21" font="vector">-12V</text>
-<text x="77.47" y="36.195" size="1.016" layer="21">GND</text>
-<text x="77.47" y="33.655" size="1.016" layer="21">GND</text>
-<text x="76.835" y="31.115" size="1.016" layer="21">OUT8</text>
-<text x="76.835" y="28.575" size="1.016" layer="21">OUT7</text>
-<text x="76.835" y="26.035" size="1.016" layer="21">OUT6</text>
-<text x="76.835" y="23.495" size="1.016" layer="21">OUT5</text>
-<text x="76.835" y="20.955" size="1.016" layer="21">OUT4</text>
-<text x="76.835" y="18.415" size="1.016" layer="21">OUT3</text>
-<text x="76.835" y="15.875" size="1.016" layer="21">OUT2</text>
-<text x="76.835" y="13.335" size="1.016" layer="21">OUT1</text>
-<text x="18.415" y="36.195" size="1.016" layer="21">GND</text>
-<text x="18.415" y="33.655" size="1.016" layer="21">GND</text>
-<text x="18.415" y="31.115" size="1.016" layer="21">IN8</text>
-<text x="18.415" y="28.575" size="1.016" layer="21">IN7</text>
-<text x="18.415" y="26.035" size="1.016" layer="21">IN6</text>
-<text x="18.415" y="23.495" size="1.016" layer="21">IN5</text>
-<text x="18.415" y="20.955" size="1.016" layer="21">IN4</text>
-<text x="18.415" y="18.415" size="1.016" layer="21">IN3</text>
-<text x="18.415" y="15.875" size="1.016" layer="21">IN2</text>
-<text x="18.415" y="13.335" size="1.016" layer="21">IN1</text>
 </plain>
 <libraries>
 <library name="linear">
