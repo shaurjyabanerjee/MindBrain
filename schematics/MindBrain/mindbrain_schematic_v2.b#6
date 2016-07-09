@@ -136,6 +136,10 @@ Designed By
 Shaurjya Banerjee
 2016</text>
 <text x="3.175" y="38.1" size="1.27" layer="21" font="vector">-12V</text>
+<text x="19.05" y="35.8775" size="0.8128" layer="21">GND</text>
+<text x="19.05" y="33.3375" size="0.8128" layer="21">GND</text>
+<text x="76.835" y="35.8775" size="0.8128" layer="21">GND</text>
+<text x="76.835" y="33.655" size="0.8128" layer="21">GND</text>
 </plain>
 <libraries>
 <library name="linear">
