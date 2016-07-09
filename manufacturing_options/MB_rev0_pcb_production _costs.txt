@@ -1,5 +1,5 @@
 PCB Fabrication Options, MindBrain Revision 0 -
------------------------------------------------------
+-------------------------------------------------------------------
 Board Details - 
 
 2 layer, FR-4, Thru Hole, Top Silkscreen
@@ -7,7 +7,7 @@ Board Details -
 Dimensions - 3.3" by 1.8"
 	    (83.8 mm X 45.7 mm) 
 
------------------------------------------------------
+-------------------------------------------------------------------
 
 1. KDP Micro Point - Topsia
 
@@ -22,7 +22,7 @@ Turnaround time  - 20-25 days
 
 Total cost for run of 10 PCBs - Rs. 2800 (~ $50)
 
-------------------------------------------------------
+-------------------------------------------------------------------
 
 2. Calcutta PCB - KP Mukherjee Road
 
@@ -34,7 +34,7 @@ Turnaround time - unknown
 
 Total cost for run of 10 PCBs - Rs. 4500 (~ $75)
 
-------------------------------------------------------
+--------------------------------------------------------------------
 
 3. OSHPark - Online (Made in USA)
 
@@ -48,20 +48,32 @@ Turnaround time - 24 days
 
 Total cost of run of 3 PCBs - $54.85
 
--------------------------------------------------------
+---------------------------------------------------------------------
 
-4. SeeedStudio Fusion - Online
+4. SeeedStudio Fusion - Online (probably made in China)
 
+Notes -  Pricing is reasonable here,
+	 Large-ish shipping fee,
+	 Will add small order number to top silkscreen, not a deal breaker
+	 
+Cost for 10 PCBs - $18.90
+Shipping costs   - $17.05 (using DHL)
+Turnaround time  - 14 days 
 
+Total cost of run of 10 PCBs - $35.95
 
+---------------------------------------------------------------------
 
+5. PCBway - Online (probably made in China)  
 
+Notes - Very reasonable pricing here ($1/board!),
+	Large shipping fee,
+	Shortest turnaround time so far
+	
+Cost for 10 PCBs - $10
+Shipping costs   - $29 (using DHL)
+Turnaround time  - 8 days 
 
---------------------------------------------------------
+Total cost of run of 10 PCBs - $39
+-------------------------------------------------------------------------
 
-5. PCBway - Online  
-
-
-
-
--------------------------------------------------------- 
