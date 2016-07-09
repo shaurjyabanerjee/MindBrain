@@ -2614,6 +2614,12 @@ In this library the device names are the same as the pin names of the symbols, t
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,-76.2,35.56,IC1P,V+,+12V,,,"/>
+<approved hash="104,1,-76.2,20.32,IC1P,V-,-12V,,,"/>
+<approved hash="104,1,-66.04,35.56,IC2P,V+,+12V,,,"/>
+<approved hash="104,1,-66.04,20.32,IC2P,V-,-12V,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
