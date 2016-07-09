@@ -9,9 +9,8 @@ UX - Add UI glow functionality corresponding to CV out level
 
 2. Pitch & Gate Out
 -------------------
-Bug - Occasionaly gates are not sent when MIDI notes come in
-UX - Add UI glow functionality corresponding to CV out level
->>fixed above bug, added glow functionality - 04/07/16 
+Bug - MIDI notes wont trigger envelope unless at very close to max velocity
+>>fixed occasional missed trigger bug, added glow functionality - 04/07/16 
 
 3. MIDI to Gate/Trigger
 -----------------------
