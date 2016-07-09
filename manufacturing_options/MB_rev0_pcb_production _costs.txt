@@ -1,0 +1,47 @@
+PCB Fabrication Options, MindBrain Revision 0 -
+-----------------------------------------------------
+
+1. KDP Micro Point - Topsia
+
+Notes - Very long turnaround time, 
+	Large layout cost nullifies low per board cost
+
+Cost per PCB     - Rs. 30   (~ $0.50)
+Cost for 10 PCBs - Rs. 300  (~ $5)
+Layout cost      - Rs. 2500 (~ $42)
+Shipping costs   - n/a
+Turnaround time  - 20-25 days
+
+Total cost for run of 10 PCBs - Rs. 2800 (~ $50)
+
+------------------------------------------------------
+
+2. OSHPark - Online
+
+Notes - Minimum order of 3 boards,
+	All orders must be multiples of 3 boards
+
+Cost for 3 PCBs - $29.85
+Layout cost     - n/a
+Shipping costs  - $25 (using USPS Priority Mail)
+Turnaround time - 24 days 
+
+Total cost of run of 3 PCBs - $54.85
+
+-------------------------------------------------------
+
+3. SeeedStudio Fusion - Online
+
+
+
+
+
+
+--------------------------------------------------------
+
+4. PCBway - Online  
+
+
+
+
+-------------------------------------------------------- 
