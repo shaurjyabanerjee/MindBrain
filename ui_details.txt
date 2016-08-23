@@ -1,0 +1,14 @@
+UI Details for MindBrain Max for Live Devices -
+
+1. Fonts -
+
+	Font Name  - Helvetica Neue
+	Font Size  - 11
+	Font Style - regular
+
+2. Colors -
+
+	
+
+
+3. Other -
