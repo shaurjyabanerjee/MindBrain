@@ -1,6 +1,6 @@
 Refactor To-Do for MindBrain Software Package 
 ----------------------------------------------
-commit test - 
+commit test - pull 
 
 1. Pitch Calibrator
 -------------------
